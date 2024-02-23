@@ -1,2 +1,2 @@
 # Building Company Site
-Front-End Project by HTML and CSS
+Website for a Building Company using a marking grid from the Bulma framework.
